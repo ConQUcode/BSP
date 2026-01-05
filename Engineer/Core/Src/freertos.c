@@ -169,7 +169,7 @@ void ChassisTask_f(void const * argument)
   /* USER CODE BEGIN ChassisTask_f */
   /* Infinite loop */
   for(;;){
-
+    all_cmd_Task();
     osDelay(1);
   }
   /* USER CODE END ChassisTask_f */

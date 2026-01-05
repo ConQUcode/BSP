@@ -105,7 +105,7 @@ int main(void)
   MX_TIM10_Init();
   MX_USART1_UART_Init();
   /* USER CODE BEGIN 2 */
-
+  all_init_Task();
 	
   /* USER CODE END 2 */
 

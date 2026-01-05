@@ -8,3 +8,9 @@
 #include "Test.h"
 
 
+void all_init_Task(){
+
+}
+void all_cmd_Task(){
+    
+}
